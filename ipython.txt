@@ -1,0 +1,47 @@
+from run import *
+fb_model
+fb_model.name
+dx_model.name
+dx_model.layers
+fb_model.layers
+dx_model.layers
+dx_model.layer
+dx_model.layer[0]
+dx_model.layer[0].name
+dx_model.layer[0].blob
+dx_model.layer[0].blobs
+fb_model.layers[0].blobs
+fb_model.layers[0].blob
+fb_model.layers[1].blobs
+dx_model.layer[1].blobs
+dx_model.layer[1].blobs[0]
+dx_model.layer[1].blobs[0].width
+dx_model.layer[1].blobs[0].height
+len(dx_model.layer[1].blobs[0].data)
+len(fb_model.layers[1].blobs[0].data)
+import apply
+reload(apply)
+reload(apply)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+reload(apply) and apply.apply(dx_model, fb_model)
+x = reload(apply) and apply.apply(dx_model, fb_model)
+x = reload(apply) and apply.apply(dx_model, fb_model)
+f = open("thing.model", "wb")
+f.write(dx_model.SerializeToString())
+f = open("thing2.model", "wb")
+f.write(dx_model.SerializeToString())
+f.close()
+%history

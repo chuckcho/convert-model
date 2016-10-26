@@ -1,0 +1,6 @@
+*.caffemodel
+*_iter_100000
+*_iter_20000
+*.pkl
+*.npz
+*.pyc
